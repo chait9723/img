@@ -11,9 +11,9 @@ app.get('/start',function(request,response){
 	response.send(__dirname+'/images')
 	console.log("start page has been hit.")
 })
-app.listen(5000,function(){
-console.log("Node  app is running at localhost"+5000)
-})
+//app.listen(5000,function(){
+//console.log("Node  app is running at localhost"+5000)
+//})
 //app.listen(process.env.PORT || 5000, function(){
   //console.log('listening on', app.address().port);
 //});		
