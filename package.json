@@ -1,7 +1,7 @@
 {
   "name": "img",
   "version": "1.0.0",
-  "description": "",
+  "description": "Angularjs deployinng in heroku",
   "main": "index.js",
   "dependencies": {
     "socketio": "^1.0.0"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/chait9723/img.git"
   },
-  "author": "",
+  "author": "sai",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/chait9723/img/issues"
