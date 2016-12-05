@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Angularjs deployinng in heroku",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "socketio": "^1.0.0"
   },
