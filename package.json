@@ -1,16 +1,12 @@
 {
   "name": "img",
   "version": "1.0.0",
-  "description": "Angularjs deployinng in heroku",
+  "description": "\"angular application\"",
   "main": "index.js",
-  "script": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "socketio": "^1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
