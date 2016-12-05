@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Angularjs deployinng in heroku",
   "main": "index.js",
-  "scripts": {
+  "script": {
     "start": "node index.js"
   },
   "dependencies": {
